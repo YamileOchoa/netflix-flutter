@@ -16,19 +16,6 @@ Diseño responsivo · Tipografías personalizadas · Assets locales · Animacion
 
 <br/>
 
-> ⚡ Primera app Flutter con fuentes personalizadas, imágenes de fondo y stroke de texto nativo
-
-</div>
-
----
-
-## 📸 Preview
-
-| Mobile | Desktop |
-|--------|---------|
-| *(agrega captura: `assets/screenshots/mobile.png`)* | *(agrega captura: `assets/screenshots/desktop.png`)* |
-
----
 
 ## 🚀 Inicio rápido
 
@@ -282,34 +269,3 @@ Playfair Display  →  Títulos hero
 Oswald            →  Headers + números ranking  
 Lato              →  Cuerpo + inputs + nav
 ```
-
----
-
-## 🤝 Contribuir
-
-```bash
-# Fork → clone → branch → cambios → PR
-git checkout -b feature/mi-mejora
-git commit -m "feat: descripción del cambio"
-git push origin feature/mi-mejora
-```
-
----
-
-## 👤 Autor
-
-Hecho con ❤️ y **Flutter**
-
-[![GitHub](https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=flat-square&logo=github)](https://github.com/TU_USUARIO)
-
----
-
-<div align="center">
-
-**⭐ Si te gustó el proyecto, deja una estrella en el repo**
-
-<img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" width="40"/>
-
-*Built with Flutter*
-
-</div>
