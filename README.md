@@ -16,14 +16,19 @@ Diseño responsivo · Tipografías personalizadas · Assets locales · Animacion
 
 <br/>
 
+> ⚡ Primera app Flutter con fuentes personalizadas, imágenes de fondo y stroke de texto nativo
+
+</div>
+
+---
 
 ## 🚀 Inicio rápido
 
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/YamileOchoa/netflix-flutter.git
-cd netflix-flutter
+git clone https://github.com/TU_USUARIO/netflix-flutter-clone.git
+cd netflix-flutter-clone
 ```
 
 ### 2. Instalar dependencias
@@ -269,3 +274,13 @@ Playfair Display  →  Títulos hero
 Oswald            →  Headers + números ranking  
 Lato              →  Cuerpo + inputs + nav
 ```
+
+---
+
+<div align="center">
+
+<img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" width="40"/>
+
+*Built with Flutter*
+
+</div>
